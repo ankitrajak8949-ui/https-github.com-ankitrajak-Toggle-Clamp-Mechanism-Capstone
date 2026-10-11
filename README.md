@@ -1,0 +1,2 @@
+# https-github.com-ankitrajak-Toggle-Clamp-Mechanism-Capstone
+# Design &amp; Kinematic Analysis of a Toggle-Clamp Press Mechanism **Week 4 Capstone Task | Mechanical Design Intern (YuvaIntern)**  ## Project Overview This repository contains the technical capstone report, kinematic force calculations, and material specifications for a manual Toggle-Clamp Press Mechanism designed for light-duty sheet-metal clampi .
